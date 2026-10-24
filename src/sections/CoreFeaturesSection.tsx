@@ -1,6 +1,5 @@
 import {
   FaCheckCircle,
-  FaRegBell,
   FaChartBar,
   FaMobileAlt,
   FaRegClock,

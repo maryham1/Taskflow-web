@@ -1,10 +1,4 @@
-import {
-  FaXTwitter,
-  FaInstagram,
-  FaLinkedin,
-  FaYoutube,
-  FaHeart,
-} from "react-icons/fa6";
+import { FaXTwitter, FaInstagram, FaLinkedin } from "react-icons/fa6";
 
 const quickLinks = [
   { label: "Features", href: "#features" },
