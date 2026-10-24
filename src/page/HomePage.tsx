@@ -4,7 +4,7 @@ import AppPreviewSection from "../sections/AppPreviewSection";
 import BuiltForSection from "../sections/BuiltForSection";
 import CoreFeaturesSection from "../sections/CoreFeaturesSection";
 import DownloadCTASection from "../sections/DownloadCTASection";
-import HeroSection from "../sections/herosection";
+import HeroSection from "../sections/Herosection";
 
 import HowItWorksSection from "../sections/HowItWorksSection";
 import WhyTaskFlowSection from "../sections/WhyTaskFlowSection";
