@@ -28,7 +28,7 @@ export default function WhyTaskFlowSection() {
   return (
     <section
       id="why-taskflow"
-      className="bg-white px-5 py-10 sm:px-8 lg:px-12 border border-gray-300/50 border-b-[0.5px]"
+      className="bg-white w-full px-5 py-10 sm:px-8 lg:px-12 border border-gray-300/50 border-b-[0.5px]"
     >
       <div className="mx-auto w-full ">
         {/* Section heading */}

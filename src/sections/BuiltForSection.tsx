@@ -36,7 +36,7 @@ export default function BuiltForSection() {
   return (
     <section
       id="who-its-for"
-      className="bg-white px-5 py-10 sm:px-8 md:py-10 lg:px-12  border border-gray-300/40 border-b-[0.5px]"
+      className="bg-white w-full px-5 py-10 sm:px-8 md:py-10 lg:px-12  border border-gray-300/40 border-b-[0.5px]"
     >
       <div className="mx-auto w-full flex flex-col gap-8 md:gap-10 items-center justify-center ">
         {/* Section heading */}

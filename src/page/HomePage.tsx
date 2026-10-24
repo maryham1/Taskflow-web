@@ -11,7 +11,7 @@ import WhyTaskFlowSection from "../sections/WhyTaskFlowSection";
 
 export default function HomePage() {
   return (
-    <div className="w-full">
+    <div className="w-full overflow-hidden">
       <Navbar />
       <HeroSection />
       <BuiltForSection />

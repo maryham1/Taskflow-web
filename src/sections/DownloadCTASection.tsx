@@ -4,7 +4,7 @@ const APK_DOWNLOAD_URL = "/downloads/taskflow.apk";
 
 export default function DownloadCTASection() {
   return (
-    <section className="bg-white px-5 py-10 sm:px-8 lg:px-12 border-gray-300/40 border-b-[0.5px]">
+    <section className="bg-white w-full px-5 py-10 sm:px-8 lg:px-12 border-gray-300/40 border-b-[0.5px]">
       <div className="relative mx-auto flex w-full max-w-7xl flex-col items-center gap-8 overflow-hidden rounded-2xl bg-[#7C3AED] px-6 pt-8 sm:px-10 md:flex-row md:justify-between md:gap-6 md:pl-10 md:pr-6 md:pt-0 lg:px-14">
         {/* CTA content */}
         <div className="relative z-10  flex w-full flex-col items-center py-4 text-center md:w-3/5 md:items-start md:py-10 md:text-left">
