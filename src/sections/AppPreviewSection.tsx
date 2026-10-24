@@ -11,7 +11,7 @@ export default function AppPreviewSection() {
   return (
     <section
       id="app-preview"
-      className="relative  bg-[#F5F0FF] px-5 py-10 md:px-8  lg:px-12 border border-gray-300/40 border-b-[0.5px]"
+      className="relative w-full  bg-[#F5F0FF] px-5 py-10 md:px-8  lg:px-12 border border-gray-300/40 border-b-[0.5px]"
     >
       <div className="mx-auto flex w-full flex-col gap-8 md:gap-0 items-center justify-between md:flex-row ">
         {/* App screenshots */}

@@ -11,7 +11,7 @@ import WhyTaskFlowSection from "../sections/WhyTaskFlowSection";
 
 export default function HomePage() {
   return (
-    <>
+    <div className="w-full">
       <Navbar />
       <HeroSection />
       <BuiltForSection />
@@ -21,6 +21,6 @@ export default function HomePage() {
       <WhyTaskFlowSection />
       <DownloadCTASection />
       <Footer />
-    </>
+    </div>
   );
 }

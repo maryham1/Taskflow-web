@@ -28,7 +28,7 @@ export default function HowItWorksSection() {
   return (
     <section
       id="how-it-works"
-      className="bg-white px-5 py-10 md:px-8 lg:px-12 border border-gray-300/40 border-b-[0.5px]"
+      className="bg-white w-full px-5 py-10 md:px-8 lg:px-12 border border-gray-300/40 border-b-[0.5px]"
     >
       <div className="mx-auto w-full">
         {/* Section heading */}

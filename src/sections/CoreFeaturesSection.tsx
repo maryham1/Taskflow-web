@@ -40,7 +40,7 @@ export default function CoreFeaturesSection() {
   return (
     <section
       id="features"
-      className="bg-[#F5F0FF] px-5 py-10 md:px-8 lg:px-12 border border-gray-300/10 border-b-[0.5px]"
+      className="bg-[#F5F0FF] w-full px-5 py-10 md:px-8 lg:px-12 border border-gray-300/10 border-b-[0.5px]"
     >
       <div className="flex flex-col items-center gap-10">
         {/* Section heading */}
