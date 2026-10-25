@@ -1,7 +1,8 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import HomePage from "../page/HomePage";
-import TermsOfService from "../page/TermsOfService";
+
 import PrivacyPolicy from "../page/PrivacyPolicy";
+import TermsOfService from "../page/TermsOfService";
 
 export default function AppRouter() {
   return (
