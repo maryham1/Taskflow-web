@@ -4,7 +4,7 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
 
 const APK_DOWNLOAD_URL =
-  " https://github.com/maryham1/Taskflow-web/releases/tag/v1.0.0 ";
+  " https://github.com/maryham1/Taskflow-web/releases/download/v1.0.0/TaskFlow.apk ";
 
 export default function DownloadCTASection() {
   const shouldReduceMotion = useReducedMotion();
