@@ -3,7 +3,8 @@ import { LazyLoadImage } from "react-lazy-load-image-component";
 import { motion, useReducedMotion } from "motion/react";
 import "react-lazy-load-image-component/src/effects/blur.css";
 
-const APK_DOWNLOAD_URL = "/downloads/TaskFlow.apk";
+const APK_DOWNLOAD_URL =
+  "https://github.com/maryham1/Taskflow-web/releases/tag/v1.0.0";
 
 export default function HeroSection() {
   const shouldReduceMotion = useReducedMotion();
